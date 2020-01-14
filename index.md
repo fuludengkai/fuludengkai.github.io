@@ -2,10 +2,10 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>邓凯</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>贵州大学计算机学院</b></p>
-      <p><b>邮箱：kai_deng@126.com</b></p>
+      <h1>Kai Deng</h1>
+      <p><b>Master Degree</b></p>
+      <p><b>School of Computer Science and Technology, Guizhou University</b></p>
+      <p><b>Email：kai_deng@126.com</b></p>
     </td>
     <td width="25%">
       <img src="/02.jpg" width="100%">      
@@ -13,6 +13,6 @@
   </tr>
 </table>
 # PUBLICATION
-基于物品的统一推荐模型
+Unified Recommendation Model Based on Items
 # RESEARCH
 RECOMMENDATION SYSTEM
