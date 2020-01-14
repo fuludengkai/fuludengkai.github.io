@@ -3,6 +3,16 @@
 # RESEARCH
 RECOMMENDATION SYSTEM
 # INTRODUCTION
-NAME:KAI DENG
-
-SEX:MALE
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>邓凯</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>贵州大学计算机学院</b></p>
+      <p><b>邮箱：kai_deng@126.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/02.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
